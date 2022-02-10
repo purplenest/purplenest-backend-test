@@ -13,13 +13,17 @@ class CartItemAPITest(APITestCase):
         self.client.force_authenticate(self.user)
 
     def test_list(self):
+        """장바구니에 담은 목록"""
         pass
 
     def test_create(self):
+        """장바구니 항목 추가"""
         pass
 
     def test_update(self):
+        """수량 업데이트"""
         pass
 
     def test_destroy(self):
+        """삭제"""
         pass
