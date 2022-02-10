@@ -1,0 +1,7 @@
+asgiref @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/71/66/fe/0268717622fd9cf036d2fb46b7ad84ad39e3776bc461ce21a4284f32d2/asgiref-3.5.0-py3-none-any.whl
+Django @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/04/e1/8e/5d52136d7d2db35db3f13594d748983906927beeaf5bf285a68973b221/Django-3.2.12-py3-none-any.whl
+django-extensions @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/48/ec/78/cf2bc730412f70766fc1164d4f8172e6ee32e15321f44a7c539f7a8d1c/django_extensions-3.1.5-py3-none-any.whl
+djangorestframework @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/7a/1a/9f/2d5a19ae6bfb95d667e8b4f5046c140bfa7cabbbf75bf9a179d1776aa1/djangorestframework-3.13.1-py3-none-any.whl
+model-bakery @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/92/49/37/3710980ef6a2222046d0430831078aab6a1869c7618d91af2c5e8121ab/model_bakery-1.4.0-py2.py3-none-any.whl
+pytz @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/a0/f8/66/b50e6d372fa21e4d6db4b2fe5c5e94aaf59b82d02a7b3215fbc4fae889/pytz-2021.3-py2.py3-none-any.whl
+sqlparse @ file:///Users/lhy/Library/Caches/pypoetry/artifacts/10/f5/22/c9c991a71e27c4d8f69907d92cce74a369cbb3183dc4a6d27e2ae4ab0b/sqlparse-0.4.2-py3-none-any.whl
